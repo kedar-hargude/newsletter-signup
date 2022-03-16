@@ -1,0 +1,24 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "Just trying out the mailchimp api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedar-hargude/newsletter-signup.git"
+  },
+  "author": "Kedar Hargude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kedar-hargude/newsletter-signup/issues"
+  },
+  "homepage": "https://github.com/kedar-hargude/newsletter-signup#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
